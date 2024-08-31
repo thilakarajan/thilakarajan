@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blog website**
 
-- 🌱 I’m currently learning **Fullstack Java**
+- 🌱 I’m currently learning **Data Structure**
 
 - 📫 How to reach me **thilakarajanvenkat@gmail.com**
 
