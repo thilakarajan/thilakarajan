@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thilakarajan</h1>
-<h3 align="center">A passionate fullstack java developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilakarajan&label=Profile%20views&color=0e75b6&style=flat" alt="thilakarajan" /> </p>
 
-- 🔭 I’m currently working on **Blog website**
+- 🔭 I’m currently working on **Place Sharing Web Application**
 
-- 🌱 I’m currently learning **Data Structure**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **thilakarajanvenkat@gmail.com**
 
