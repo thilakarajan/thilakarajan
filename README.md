@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thilakarajanvenkat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SlkPUn04lBshs_2SAD10EDoP8lgcCUzx/view?usp=sharing](https://drive.google.com/file/d/1SlkPUn04lBshs_2SAD10EDoP8lgcCUzx/view?usp=sharing)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1pWSD8DdpSBZPShLhI07O_yTykY9LuBl3/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
